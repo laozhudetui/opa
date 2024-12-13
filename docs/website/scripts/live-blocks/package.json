@@ -18,12 +18,12 @@
     "test": "node -r esm ./node_modules/.bin/mocha"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "codemirror": "^5.48.4",
+    "cheerio": "^1.0.0",
+    "codemirror": "^5.58.2",
     "codemirror-rego": "^1.1.0",
     "esm": "^3.2.25",
-    "node-fetch": "^2.6.1",
-    "tmp": "^0.1.0"
+    "node-fetch": "^2.6.7",
+    "tmp": "^0.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
